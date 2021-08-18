@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats-deploy.vercel.app/api/top-langs/?username=novay&layout=compact&bg_color=30,444444,222222&title_color=fff&text_color=fff&custom_title=What%20I%20Do%20Most&hide_border=true" />
 </a>
 
-<br/><br/>
+<br/>
 
 ![counter](https://enb514m57ghap4x.m.pipedream.net)
 
