@@ -1,4 +1,4 @@
-## Hello, Novay's Here 👋
+### Hello, Novay's Here 👋
 
 <a href="https://github.com/novay">
   <img align="center" src="https://github-readme-stats-deploy.vercel.app/api?username=novay&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=30,222222,444444&title_color=fff&text_color=fff&line_height=20&custom_title=GitHub%20Stats&hide_border=true" />
@@ -17,6 +17,7 @@
 
 Here are some ideas to get you started:
 
+- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,5 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<small>Last Updated on 12/07/2021</small>
