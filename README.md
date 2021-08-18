@@ -1,6 +1,6 @@
 ## Wolla, I'm Novay 👋
 
-[![Novay's github stats](https://github-readme-stats.vercel.app/api?username=novay)](https://github.com/novay/novay)
+[![Novay's github stats](https://github-readme-stats.vercel.app/api?username=novay&show_icons=true&theme=radical)](https://github.com/novay/novay)
 
 
 
