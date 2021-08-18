@@ -1,7 +1,12 @@
-## Wolla, I'm Novay 👋
+## Hello, Novay's Here 👋
 
-[![Novay's github stats](https://github-readme-stats.vercel.app/api?username=novay&show_icons=true&theme=radical)](https://github.com/novay/novay)
+<a href="https://github.com/novay">
+  <img align="center" src="https://github-readme-stats-deploy.vercel.app/api?username=novay&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=30,222222,444444&title_color=fff&text_color=fff&line_height=20&custom_title=GitHub%20Stats&hide_border=true" />
+</a>
 
+<a href="https://github.com/novay">
+  <img align="center" src="https://github-readme-stats-deploy.vercel.app/api/top-langs/?username=novay&layout=compact&bg_color=30,444444,222222&title_color=fff&text_color=fff&custom_title=What%20I%20Do%20Most&hide_border=true" />
+</a>
 
 
 <!--
