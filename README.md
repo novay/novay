@@ -1,6 +1,6 @@
 # Hello there, Novay's here 👋
 
-I'm a Moody Developer, a passionate and versatile programmer who thrives on solving complex problems.
+Just a moody developer who gets lost in code.
 
 ## 🛠️ Frameworks & Tools working on
 
